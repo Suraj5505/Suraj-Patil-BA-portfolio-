@@ -1,5 +1,3 @@
-# Suraj-Patil-BA-portfolio-
-Portfolio of Business Analyst projects including AI Workflow Optimization ERP Supply chain Management &amp; Healthcare / Ecom Process Improvement 
 # Suraj Patil - Business Analyst Portfolio
 
 Welcome to my Business Analyst portfolio. This repository showcases three key projects from my professional experience across Healthcare, E-commerce, IT Services, and ERP-driven workflows. Each project highlights my expertise in requirement elicitation, process mapping, SQL, Power BI, and order-to-cash optimization.
