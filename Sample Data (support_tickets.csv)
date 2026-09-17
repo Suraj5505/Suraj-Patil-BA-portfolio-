@@ -1,0 +1,6 @@
+ticket_id,issue_type,resolution_time,customer_satisfaction
+101,Login Issue,45,4
+102,Billing Error,120,3
+103,Product Inquiry,30,5
+104,Technical Bug,90,2
+105,Refund Request,60,4
