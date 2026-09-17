@@ -1,0 +1,6 @@
+part_id,part_name,stock_level,delivery_timeline_days,billing_status
+A101,Brake Pad,120,5,Paid
+A102,Clutch Plate,50,7,Pending
+A103,Oil Filter,200,3,Paid
+A104,Shock Absorber,30,10,Pending
+A105,Headlight,75,4,Paid
