@@ -1,0 +1,7 @@
+SELECT invoice_id,
+       billed_amount,
+       paid_amount,
+       (billed_amount - paid_amount) AS variance,
+       status
+FROM billing_records
+WHERE status <> 'Paid';
