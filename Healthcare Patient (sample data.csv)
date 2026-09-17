@@ -1,0 +1,7 @@
+invoice_id,customer_id,billed_amount,paid_amount,status
+H001,CUST101,5000,5000,Paid
+H002,CUST102,4500,4000,Partial
+H003,CUST103,6000,0,Unpaid
+E001,CUST201,1200,1200,Paid
+E002,CUST202,1500,1400,Partial
+E003,CUST203,2000,2000,Paid
