@@ -1,0 +1,6 @@
+SELECT issue_type,
+       COUNT(*) AS total_cases,
+       AVG(resolution_time) AS avg_resolution,
+       AVG(customer_satisfaction) AS avg_cs_score
+FROM support_tickets
+GROUP BY issue_type;
